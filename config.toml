@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Playing Rough Podcast"
+title = "Playing Rough Podcast Blog"
 theme = "pickles"
 staticDir = "static"
 
@@ -17,16 +17,12 @@ staticDir = "static"
   instagram = "playing_rough"
   googleplus = "https://plus.google.com/u/0/113265228830148501574"
   tumblr = "playingroughpodcast"
-  soundcloud = "2432511"
   youtube = "UCX3LPg-mE84Ew8wPJqXRe4Q"
-  author = "Your Name"
-  authorwebsite = "example.com"
+  author = "Playing Rough Podcast"
+  authorwebsite = "https://soundcloud.com/user-2432511"
   avatar = "/images/playing_rough_icon.jpg"
-  contact = "Your contact link (ex. mailto:foo@example.com)"
-  bio = "Your short bio"
-  # Short subtitle/tagline. This is displayed in the header.
-  #subtitle = "Short subtitle"
-  # Logo image. This is displayed ogp image.
+  contact = "https://www.patreon.com/playingroughpodcast"
+  bio = "A gaming podcast about humor, tryharding, and still having friends"
   logo = "/images/playing_rough.jpg"
   favicon = "/images/playing_rough_icon.jpg"
 
