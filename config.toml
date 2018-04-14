@@ -1,7 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Playing Rough Podcast"
 theme = "pickles"
+staticDir = "static"
 
 # Copyright notice. This is displayer in the footer.
 copyright = "&copy; Copyright notice 2018"
@@ -26,8 +27,9 @@ copyright = "&copy; Copyright notice 2018"
   # Short subtitle/tagline. This is displayed in the header.
   #subtitle = "Short subtitle"
   # Logo image. This is displayed ogp image.
-  #logo = "/path/to/logo"
-  #favicon = "/path/to/favicon"
+  logo_large = "/images/playing_rough_large.jpg"
+  logo = "/images/playing_rough.jpg"
+  favicon = "/images/playing_rough_icon.jpg"
 
 [[menu.main]]
     name = "Blog"
