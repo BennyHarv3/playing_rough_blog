@@ -32,14 +32,19 @@ staticDir = "static"
     weight = 1
 
 [[menu.main]]
-    name = "About"
-    url = "/about"
+    name = "Tags"
+    url = "/tags"
     weight = 2
 
 [[menu.main]]
-    name = "Tags"
-    url = "/tags"
+    name = "Podcast"
+    url = "https://soundcloud.com/user-2432511"
     weight = 4
+
+[[menu.main]]
+    name = "Patreon"
+    url = "https://www.patreon.com/playingroughpodcast"
+    weight = 6
 
 [related]
   # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
