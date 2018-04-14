@@ -5,7 +5,7 @@ theme = "pickles"
 staticDir = "static"
 
 # Copyright notice. This is displayer in the footer.
-copyright = "&copy; Copyright notice 2018"
+#copyright = "&copy; Copyright notice 2018"
 
 [params]
   paginate = 10
@@ -19,15 +19,14 @@ copyright = "&copy; Copyright notice 2018"
   tumblr = "playingroughpodcast"
   soundcloud = "2432511"
   youtube = "UCX3LPg-mE84Ew8wPJqXRe4Q"
-  #author = "Your Name"
-  #authorwebsite = "example.com"
-  #avatar = "/path/to/avatar"
-  #contact = "Your contact link (ex. mailto:foo@example.com)"
-  #bio = "Your short bio"
+  author = "Your Name"
+  authorwebsite = "example.com"
+  avatar = "/images/playing_rough_icon.jpg"
+  contact = "Your contact link (ex. mailto:foo@example.com)"
+  bio = "Your short bio"
   # Short subtitle/tagline. This is displayed in the header.
   #subtitle = "Short subtitle"
   # Logo image. This is displayed ogp image.
-  logo_large = "/images/playing_rough_large.jpg"
   logo = "/images/playing_rough.jpg"
   favicon = "/images/playing_rough_icon.jpg"
 
